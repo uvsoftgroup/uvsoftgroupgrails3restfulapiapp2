@@ -85,7 +85,7 @@ dataSource:
     driverClassName: com.mysql.jdbc.Driver
     dialect : org.hibernate.dialect.MySQL57Dialect
     username: root # your database username
-    password: planner81 # your database password
+    password: xxxxxx # your database password
     
 environments:
     development:
